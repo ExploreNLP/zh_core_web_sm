@@ -1,2 +1,2 @@
 # zh_core_web_sm
-Simplified Chinese language model for spaCy. It's small and just only included the common words. 
+This repository contains releases of Chinese models for the spaCy library. For more info on how to download, install and use the models, see the models documentation.
